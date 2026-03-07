@@ -339,7 +339,7 @@ Contact:
 - 📧 sulebashir001@gmail.com
 - 🔗https://www.linkedin.com/in/bashir-sule-062383123?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 🐦X:https://x.com/SuleBashir2?t=WOB5lmtcZySTV8JQmiu0nA&s=09
-- 💻 GitHub:https://github.com/Sule-Bashir/CropWarden
+- 💻 GitHub:https://github.com/Sule-Bashir/CropWarden-
 
 ---
 
