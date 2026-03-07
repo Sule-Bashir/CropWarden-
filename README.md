@@ -322,24 +322,8 @@ Payback Period: < 2 weeks
 ---
 
 ## 📹 DEMO VIDEO
-
-🔗 
-## 📸 SCREENSHOTS
-
-### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### AI Diagnosis
-![AI Analysis](screenshots/ai-diagnosis.png)
-
-### Auto Survey Complete
-![Survey Complete](screenshots/survey-complete.png)
-
-### Critical Alert
-![Alert](screenshots/alert.png)
-
-👤 TEAM
-
+Link 🔗:
+👤TEAM
 Solo Developer:Sule Bashir 
 
 **Role:** Full Stack Developer & AI Engineer
@@ -371,5 +355,3 @@ This project is submitted for Smart Innovation 2026 hackathon. All rights reserv
 🔗 LIVE DEMO
 https://0b63aa02-8a6b-48ab-9f52-4ea280173af2-00-wkdkf4tkksg3.riker.replit.dev/
 Built with ❤️ by Team Green Tech (Solo) for Smart Innovation 2026*
-```
-
